@@ -1,0 +1,16 @@
+{
+  "name": "ClinicTern",
+  "short_name": "ClinicTern",
+  "description": "AI administrative analytics software that classifies de-identified patient feedback and helps healthcare facilities identify recurring service problems.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f1f7f6",
+  "theme_color": "#f1f7f6",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

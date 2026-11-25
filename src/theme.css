@@ -1,0 +1,31 @@
+/* Generated from src/config/business.ts — edit the theme there. */
+@theme {
+  --font-display: "Albert Sans", ui-serif, Georgia, serif;
+  --font-sans: "Albert Sans", ui-sans-serif, system-ui, -apple-system, sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, "SF Mono", Menlo, monospace;
+
+  --color-canvas: #f1f7f6;
+  --color-surface: #ffffff;
+  --color-raised: #e3efed;
+  --color-ink: #0f2423;
+  --color-soft: #3f5856;
+  --color-faint: #7b9290;
+  --color-line: #123331;
+  --color-accent: #0d8a7e;
+  --color-accent2: #f26b5b;
+  --color-accent3: #3d7bd9;
+  --color-on-accent: #f2fffc;
+  --color-good: #0d8a7e;
+  --color-warn: #d9900f;
+  --color-bad: #e0473b;
+
+  --radius-card: 26px;
+  --radius-ctl: 14px;
+  --radius-btn: 999px;
+}
+
+:root {
+  color-scheme: light;
+  --display-weight: 700;
+  --display-tracking: -0.035em;
+}
