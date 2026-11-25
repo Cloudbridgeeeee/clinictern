@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /workspace
 
-Sitemap: https://clinictern.top/sitemap.xml
+Sitemap: https://clinictern.site/sitemap.xml

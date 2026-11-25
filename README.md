@@ -9,7 +9,7 @@ Marketing website and interactive product demonstration for ClinicTern.
 - Industry: Healthcare IT, Business Intelligence, Enterprise Software
 - Founder: Hadiza Ibrahim (Founder & CEO)
 - Co-founder: Chima Okafor (Co-founder & CTO)
-- Contact: hadiza@clinictern.top
+- Contact: hadiza@clinictern.site
 - Business model: Facility-based subscriptions
 
 ## Stack
